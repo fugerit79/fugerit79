@@ -31,6 +31,10 @@ The open source project I'm currently working on are mainly hosted by two github
 - [Fugerit Org](https://github.com/fugerit-org) 
 - [Caffetteria](https://github.com/caffetteria)
 
+## Some courses
+
+- [MongoDB proof of completion](courses/mongodb/proof/index.md)
+
 <!--
 **fugerit79/fugerit79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
