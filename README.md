@@ -27,7 +27,7 @@
 
 (1) Only servlet container, not fully compliant J2EE application server.
 
-The open source project I'm currently working on are mainly hosted by two github organizations :
+The open source project I'm currently working on are mainly hosted by two GitHub organizations :
 - [Fugerit Org](https://github.com/fugerit-org) 
 - [Caffetteria](https://github.com/caffetteria)
 
