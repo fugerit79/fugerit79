@@ -31,6 +31,15 @@ The open source project I'm currently working on are mainly hosted by two GitHub
 - [Fugerit Org](https://github.com/fugerit-org) 
 - [Caffetteria](https://github.com/caffetteria)
 
+A few other contributions to open source projects : 
+
+* [quarkus](https://github.com/quarkusio/quarkus)
+   * [Doc for parameter quarkus.native.add-all-charsets](https://github.com/quarkusio/quarkus/pull/41877)
+* [smallrye-config](https://github.com/snakeyaml/snakeyaml)
+   * [check duplicate keys](https://github.com/smallrye/smallrye-config/pull/1270) 
+* [snakeyaml](https://github.com/smallrye/smallrye-config)
+   * [Option to log duplicate keys](https://github.com/snakeyaml/snakeyaml/pull/17)
+
 ## Some courses
 
 - [MongoDB proof of completion](courses/mongodb/proof/index.md)
