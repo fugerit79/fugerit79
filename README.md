@@ -39,6 +39,11 @@ A few other contributions to open source projects :
    * [check duplicate keys](https://github.com/smallrye/smallrye-config/pull/1270) 
 * [snakeyaml](https://github.com/smallrye/smallrye-config)
    * [Option to log duplicate keys](https://github.com/snakeyaml/snakeyaml/pull/17)
+* [camel-quarkus](https://github.com/apache/camel-quarkus)
+   * [Documentation for 'Fop native failures due to pdfbox 3 upgrade'](https://github.com/apache/camel-quarkus/pull/6744)
+* [XsdParser](https://github.com/xmlet/XsdParser)
+   * [Fix [1.2.12] XsdSimpleType : NullPointerException on XsdParserCore.getXsdTypeToJava(unionMemberRestriction.getBase())](https://github.com/xmlet/XsdParser/pull/68) 
+   * [Test case and possible fix for issue 63 : java.lang.ClassCastException on XsdAttribute:198 - xsd parser version 1.2.9](https://github.com/xmlet/XsdParser/pull/64) 
 
 ## Some courses
 
