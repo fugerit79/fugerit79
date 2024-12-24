@@ -44,6 +44,8 @@ A few other contributions to open source projects :
 * [XsdParser](https://github.com/xmlet/XsdParser)
    * [Fix [1.2.12] XsdSimpleType : NullPointerException on XsdParserCore.getXsdTypeToJava(unionMemberRestriction.getBase())](https://github.com/xmlet/XsdParser/pull/68) 
    * [Test case and possible fix for issue 63 : java.lang.ClassCastException on XsdAttribute:198 - xsd parser version 1.2.9](https://github.com/xmlet/XsdParser/pull/64) 
+* [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
+   * [Aggiornamento action checkout v4 - workflow di pubblicazione docker](https://github.com/italia/cie-cns-apache-docker/pull/25) 
 
 ## Some courses
 
