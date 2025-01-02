@@ -46,6 +46,8 @@ A few other contributions to open source projects :
    * [Test case and possible fix for issue 63 : java.lang.ClassCastException on XsdAttribute:198 - xsd parser version 1.2.9](https://github.com/xmlet/XsdParser/pull/64) 
 * [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
    * [Aggiornamento action checkout v4 - workflow di pubblicazione docker](https://github.com/italia/cie-cns-apache-docker/pull/25) 
+* [graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata)
+   * [Add native schema support for org.fugerit.java:fj-doc-base and org.fugeri.tjava:fj-doc-freemarker](https://github.com/oracle/graalvm-reachability-metadata/pull/557) 
 
 ## Some courses
 
