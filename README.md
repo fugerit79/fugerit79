@@ -27,11 +27,7 @@
 
 (1) Only servlet container, not fully compliant J2EE application server.
 
-The open source project I'm currently working on are mainly hosted by two GitHub organizations :
-- [Fugerit Org](https://github.com/fugerit-org) 
-- [Caffetteria](https://github.com/caffetteria)
-
-A few other contributions to open source projects : 
+## A few contributions to open source projects : 
 
 * [quarkus](https://github.com/quarkusio/quarkus)
    * [Doc for parameter quarkus.native.add-all-charsets](https://github.com/quarkusio/quarkus/pull/41877)
@@ -48,6 +44,24 @@ A few other contributions to open source projects :
    * [Aggiornamento action checkout v4 - workflow di pubblicazione docker](https://github.com/italia/cie-cns-apache-docker/pull/25) 
 * [graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata)
    * [Add native schema support for org.fugerit.java:fj-doc-base and org.fugeri.tjava:fj-doc-freemarker](https://github.com/oracle/graalvm-reachability-metadata/pull/557) 
+
+Aside from these contributions I have also published a few projects on two organization account I'm owner of :
+
+- [Fugerit Org](https://github.com/fugerit-org) 
+- [Caffetteria](https://github.com/caffetteria)
+
+## Special thanks
+
+**Special thanks** to [JetBrains](https://www.jetbrains.com/) 
+for accepting this project in the 
+[Licenses for Open Source Development - Community Support](https://jb.gg/OpenSourceSupport) program.
+
+[![JetBrains](https://universe.fugerit.org/src/docs/thanks/jetbrains.png)](https://universe.fugerit.org/src/docs/thanks/jetbrains.html)
+
+**Special thanks** to [Sonar Cloud](https://sonarcloud.io/), 
+[Codacy](https://www.codacy.com/) and 
+[Snyk](https://snyk.io/) 
+too for their code review platforms.
 
 ## Some courses
 
