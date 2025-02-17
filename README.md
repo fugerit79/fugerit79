@@ -44,7 +44,8 @@
 * [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
    * [Aggiornamento action checkout v4 - workflow di pubblicazione docker](https://github.com/italia/cie-cns-apache-docker/pull/25) 
 * [graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata)
-   * [Add native schema support for org.fugerit.java:fj-doc-base and org.fugeri.tjava:fj-doc-freemarker](https://github.com/oracle/graalvm-reachability-metadata/pull/557) 
+   * [Add native schema support for org.fugerit.java:fj-doc-base and org.fugeri.tjava:fj-doc-freemarker](https://github.com/oracle/graalvm-reachability-metadata/pull/557)
+   * [Add graalvm schema for org.fugerit.java:fj-doc-mod-opencsv](https://github.com/oracle/graalvm-reachability-metadata/pull/587)
 
 Aside from these contributions I have also published a few projects on two organization account I'm owner of :
 
