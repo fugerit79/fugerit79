@@ -1,5 +1,7 @@
 ### Hi I'm Matteo Franci a.k.a. Fugerit 👋
 
+This is my **OpenSource** profile, for professional profile see <https://github.com/mttfranci>.
+
 <!-- https://github.com/anuraghazra/github-readme-stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fugerit79&theme=aura&hide_progress=false)
 -->
